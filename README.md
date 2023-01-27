@@ -6,9 +6,13 @@ Aspiring Software Developer.
 🌱 Currently focusing on API`s and Bots
 
 💻   Python
+
 🌐   HTML5 CSS JavaScript Bootstrap
+
 🛢   MySQL
+
 ⚙️   GitHub
+
 🔧   Visual Studio Code
-🧗‍♂️ LOT TO LEARN!!!
+
 ⭐️ From Jonathan Atong
