@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I'm Jonathan Atong! 👋
+❤️ Learning	💛 Gaming	💙 Programming
+Aspiring Software Developer.
 
-<!--
-**atongjonathan/atongjonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently learning Python(Flask, Django ) and React
+🌱 Currently focusing on API`s and Bots
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻   Python
+🌐   HTML5 CSS JavaScript Bootstrap
+🛢   MySQL
+⚙️   GitHub
+🔧   Visual Studio Code
+🧗‍♂️ LOT TO LEARN!!!
+⭐️ From Jonathan Atong
