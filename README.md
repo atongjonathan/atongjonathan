@@ -1,4 +1,6 @@
 Hi, I'm Jonathan Atong! 👋
+![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=atongjonathan)]https://github.com/anuraghazra/github-readme-stats
+
 ❤️ Learning	💛 Gaming	💙 Programming
 Aspiring Software Developer.
 
