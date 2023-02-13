@@ -5,7 +5,7 @@ Aspiring Software Developer.
 🔭 I’m currently learning Python(Flask, Django ) and React
 🌱 Currently focusing on API`s and Bots
 
-💻   Python
+💻  Java
 
 🌐   HTML5 CSS JavaScript Bootstrap
 
