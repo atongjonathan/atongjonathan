@@ -20,7 +20,8 @@ Aspiring Software Developer.
 ⚙️   GitHub
 
 🔧   Visual Studio Code
-![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=atongjonathan)]https://github.com/anuraghazra/github-readme-stats
-
 
 ⭐️ From Jonathan Atong
+
+![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=atongjonathan)]https://github.com/anuraghazra/github-readme-stats
+
