@@ -1,7 +1,7 @@
 
 ### Hi, I'm Jonathan Atong! 👋
 ####  Programming Aspiring Software Developer.
-![ Programming Aspiring Software Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![ Programming Aspiring Software Developer.]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/account))
 
 "Hi, I'm Jonathan,currently a Computer Science student at Maasai Mara University located in Narok, Kenya. I have a passion for programming and have honed my skills through various projects. I'm proficient in programming languages such as Java and Python. I have a strong desire to make a positive impact in the industry and am always looking for new opportunities to grow and learn. Feel free to reach out to me if you have any questions or are interested in working together. Thank you!
 
@@ -23,5 +23,5 @@ Aspiring Software Developer.
 
 ⭐️ From Jonathan Atong
 
-![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=atongjonathan)]https://github.com/anuraghazra/github-readme-stats
+![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=atongjonathan)]
 
