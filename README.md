@@ -1,6 +1,6 @@
 
 ### Hi, [I'm Jonathan Atong!](http://atongjonathan.github.io/website/) 👋
-##  Learning	💛 Gaming	💙 Programming
+####  Learning	💛 Gaming	💙 Programming
 Data Scientist and Developer.
 
 
