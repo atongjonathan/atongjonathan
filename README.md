@@ -12,13 +12,6 @@ Data Scientist and Developer.
 
 🔭 I’m currently learning Python(Flask, Django ) and React
 
-🌱 Currently focusing on APIs and Bots
-💻  Python
-🌐   HTML5 CSS JavaScript Bootstrap
-🛢   MySQL
-⚙️   Django
-🔧   React
-
 <p align="left"> <a href="https://twitter.com/atongjona" target="blank"><img src="https://img.shields.io/twitter/follow/atongjona?logo=twitter&style=for-the-badge" alt="atongjona" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
