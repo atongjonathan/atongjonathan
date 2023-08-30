@@ -11,6 +11,7 @@ Data Scientist and Developer.
 
 
 🔭 I’m currently learning Python(Flask, Django ) and React
+
 🌱 Currently focusing on APIs and Bots
 💻  Python
 🌐   HTML5 CSS JavaScript Bootstrap
