@@ -1,5 +1,5 @@
 
-### Hi, [I'm Jonathan Atong!](http://atongjonathan.github.io/website/) 👋
+### Hi, [I'm Jona!](http://atongjonathan.github.io/) 👋
 💙 Learning
 
 
