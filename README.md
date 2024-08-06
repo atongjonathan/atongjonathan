@@ -1,16 +1,7 @@
 
 ### Hi, [I'm Jonathan Atong!](http://atongjonathan.github.io/website/) 👋
-<h3>A passionate developer from Kenya</h3>
-Learning	💛 Gaming	💙 Programming
-Software Developer and programmer
+💙 Learning
 
-
-Hi, I'm Jonathan👋, I have a passion for programming and have honed my skills through various projects. I'm proficient in programming languages such as Java and Python. I have a strong desire to make a positive impact in the industry and am always looking for new opportunities to grow and learn. Feel free to reach out to me if you have any questions or are interested in working together. Thank you!
-
-[Let's Talk](atongjonathan@gmail.com)
-
-
-🔭 I’m currently learning Python(Flask, Django ) and React
 
 <p align="left"> <a href="https://twitter.com/atongjona" target="blank"><img src="https://img.shields.io/twitter/follow/atongjona?logo=twitter&style=for-the-badge" alt="atongjona" /></a> </p>
 
